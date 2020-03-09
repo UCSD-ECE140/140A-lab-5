@@ -1,0 +1,6 @@
+{
+    "teamname": "<own_teamname>", 
+    "pitstop1": {"start1": "<computed_distance1>", "start2": "<computed_distance2>", "start3": "computed_distance3>"},
+    "pitstop2": {"start1": 1.57, "start2": 3.14, "start3": 0.5},
+    "pitstop3": {"start1": 1.44, "start2": 0.8, "start3": 2.2}
+}
